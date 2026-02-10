@@ -1,0 +1,43 @@
+{
+  "name": "js-officeparser",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "office",
+    "docx",
+    "pptx",
+    "xlsx",
+    "odt",
+    "odp",
+    "ods",
+    "pdf",
+    "rtf",
+    "parser",
+    "text extraction",
+    "document parser",
+    "word",
+    "excel",
+    "powerpoint",
+    "spreadsheet",
+    "presentation",
+    "slides",
+    "ast",
+    "ocr",
+    "typescript",
+    "browser",
+    "metadata",
+    "formatting",
+    "attachments",
+    "tesseract",
+    "pdf.js",
+    "structured-data",
+    "openoffice",
+    "libreoffice"
+  ],
+  "author": "Emre Karameşe",
+  "license": "MIT",
+  "description": ""
+}
