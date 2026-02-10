@@ -5,6 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/emrekaramese45/js-officeparser.git"
+  },
+  "bugs": {
+   "url": "https://github.com/emrekaramese45/js-officeparser/issues"
+ },
+ "homepage": "https://github.com/emrekaramese45/js-officeparser#readme",
   "keywords": [
     "office",
     "docx",
